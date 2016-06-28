@@ -6,7 +6,7 @@ A fun little python function to draw bar graphs with turtle graphics!
 While it provides little practical utility, it is capable of generating and storing bar graphs (SVG). Here's how to call it:
 
 * Import graphs into your code with:
-*  > import graphs.py
+* > import graphs.py
 * Call the draw_bar() function in the following manner:
 * > draw_graph(dataset,title_graph,scale,max_range)
 
